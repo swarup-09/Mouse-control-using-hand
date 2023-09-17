@@ -11,7 +11,7 @@ Welcome to the Virtual Mouse Controller GitHub repository! This innovative Pytho
 
 Before you get started, ensure you have the following prerequisites:
 
-- **Python**: You'll need Python 3.x installed on your computer.
+- **Python**: You'll need Python 3.8 installed on your computer.
 
 - **Dependencies**: Install the necessary Python packages using `pip`:
 
